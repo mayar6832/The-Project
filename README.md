@@ -6,3 +6,7 @@
 # Search hotels
 ![first screen](https://user-images.githubusercontent.com/76603304/161039786-df0981af-ba0c-414e-bc0d-49759e1eb5b4.jpg)
 ![second screen](https://user-images.githubusercontent.com/76603304/161039808-7acb1dbd-d992-4c80-bf2a-9d86f4ce6bfb.jpg)
+
+# Search Flights
+
+![myScreen](https://user-images.githubusercontent.com/102704872/161044319-b71f2c68-ce7c-461d-b808-9a58b1723476.JPG)
