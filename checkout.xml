@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity"
+        tools:layout_editor_absoluteX="-55dp"
+        tools:layout_editor_absoluteY="0dp">
+
+
+        <TextView
+            android:id="@+id/loginscrn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Check Out"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="137dp"
+            tools:layout_editor_absoluteY="82dp" />
+
+        <TextView
+            android:id="@+id/fstTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="148dp" />
+
+        <EditText
+            android:id="@+id/txtName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="5"
+            tools:layout_editor_absoluteX="137dp"
+            tools:layout_editor_absoluteY="390dp" />
+
+        <TextView
+            android:id="@+id/secTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Password number"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="338dp" />
+
+        <TextView
+            android:id="@+id/secTxt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Email"
+            tools:layout_editor_absoluteX="55dp"
+            tools:layout_editor_absoluteY="221dp" />
+
+        <EditText
+            android:id="@+id/txtEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            tools:layout_editor_absoluteX="137dp"
+            tools:layout_editor_absoluteY="258dp" />
+
+        <EditText
+            android:id="@+id/txtEmail2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            tools:layout_editor_absoluteX="137dp"
+            tools:layout_editor_absoluteY="323dp" />
+
+        <EditText
+            android:id="@+id/txtPwd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            tools:layout_editor_absoluteX="137dp"
+            tools:layout_editor_absoluteY="137dp" />
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            tools:layout_editor_absoluteX="180dp"
+            tools:layout_editor_absoluteY="620dp" />
+
+        <TextView
+            android:id="@+id/lnkLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:onClick="test"
+            android:text="to edit in trip or cancel it Click Here"
+            android:textColor="#3F51B5"
+            android:textSize="20dp"
+            tools:layout_editor_absoluteY="492dp" />
+
+        <TextView
+            android:id="@+id/fstTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="visa number"
+            tools:layout_editor_absoluteX="30dp"
+            tools:layout_editor_absoluteY="270dp" />
+
+        <TextView
+            android:id="@+id/fstTxt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="trip code"
+            tools:layout_editor_absoluteX="46dp"
+            tools:layout_editor_absoluteY="398dp" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <TextView
+        android:id="@+id/loginscrn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Check Out"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="137dp"
+        tools:layout_editor_absoluteY="82dp" />
+
+    <EditText
+        android:id="@+id/txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        tools:layout_editor_absoluteX="137dp"
+        tools:layout_editor_absoluteY="200dp" />
+
+    <EditText
+        android:id="@+id/txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        tools:layout_editor_absoluteX="137dp"
+        tools:layout_editor_absoluteY="137dp" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        tools:layout_editor_absoluteX="180dp"
+        tools:layout_editor_absoluteY="620dp" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
