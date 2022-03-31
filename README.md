@@ -19,3 +19,6 @@
 
 # CheckOut
 ![Screenshot_10](https://user-images.githubusercontent.com/83311419/161120481-df8c2df8-039d-4b2e-8aeb-bc038ef0871b.png)
+
+#Regiester
+![Regiester](https://user-images.githubusercontent.com/102691209/161122515-3c4f225a-05e1-459f-acb2-27f493ea6005.png)
