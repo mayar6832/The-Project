@@ -7,10 +7,10 @@
 
 # Search hotels
 ![search_hotel1](https://user-images.githubusercontent.com/76603304/165676799-922f6234-eaab-4358-b02f-d7e60704daa6.jpg)
-
+![search_hotel2](https://user-images.githubusercontent.com/76603304/165676811-8e12a772-5fb8-4287-83d9-447f8b06b159.jpg)
 # Search Flights
 ![search_flights](https://user-images.githubusercontent.com/76603384/165676511-2c876003-12c4-43e0-8fdc-3a2099d7905d.jpg)
-![search_hotel2](https://user-images.githubusercontent.com/76603304/165676811-8e12a772-5fb8-4287-83d9-447f8b06b159.jpg)
+
 
 # Flights Output
 ![flights](https://user-images.githubusercontent.com/76603384/165676548-c08899e3-d1b2-4e44-a76b-ab2213e9937a.jpg)
